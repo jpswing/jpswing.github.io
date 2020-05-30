@@ -1,0 +1,22 @@
+# Setup
+title:               博客
+tagline:             'Just a blog site'
+description:         '一个偷了别人的主题的博客'
+url:                 https://jpswing.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              jp
+  url:               https://weibo.com/u/1840423243
+  email:             abzmglqyp@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
