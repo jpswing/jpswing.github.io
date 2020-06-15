@@ -40,5 +40,12 @@ Eb minor 和 A minor 的差距很大，这是因为这两个 key 所共有的音
 
 这个段落之后，便会接回开头。这次转变并不像之前一样那么突然，相反，ZUN 通过将乐器的增加、鼓点的变化、快速琶音以及升半个 key 的这些技巧配合使用，来逐渐增加音乐的能量，当能量积攒得差不多时，直接接回开头，也不会显得突兀。
 
+第二首曲子是来自东方妖妖梦的《ネクロファンタジア》。
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="380" height="86" src="//music.163.com/outchain/player?type=2&id=22636708&auto=0&height=66"></iframe>
+
+由于想摸了，所以我就简单总结一下这部分内容：作者讲了级进上行或下行的这种和弦进行在东方音乐中很常见；然后讲了一下 ZUN 所用的一些包括 pivot chord 在内的转调技巧；然后提到了 ZUN 很爱用「皮卡第三度」[2] 这个终止式。
+
 [1] 减和弦与属七和弦（在 Eb minor 中是 E7）有着同样的三全音，这就是减和弦与属和弦一样，都想接到主和弦的原因，这里的减和弦也可以换成 Bb7，它也有着同样的三全音，这就是「[三全音代理](https://www.youtube.com/watch?v=Wdn1acmup5g)」。
 
+[2] 皮卡第三度是我个人很喜欢的一种终止式，真的怎么用都好听，具体可看 [好和弦的介绍影片](https://www.youtube.com/watch?v=9uFS7NBdAMA)。
