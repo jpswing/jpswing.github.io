@@ -7,6 +7,8 @@ categories: ACM
 
 这个 post 用来记录一些做题时学习到的一些技巧之类的东西。
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="380" height="86" src="//music.163.com/outchain/player?type=2&id=874080&auto=0&height=66"></iframe>
+
 1. 括号序列的性质：（CF 1095E） 
 	- 所有前缀中左括号数大于等于右括号数
 	- 整个串中左括号数等于右括号数
