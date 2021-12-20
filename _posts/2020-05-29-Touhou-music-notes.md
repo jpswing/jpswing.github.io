@@ -18,6 +18,7 @@ excerpt_separator: <!--more-->
 
 但是除了这些，还有一个不太容易被人注意到的特点，就是在同一个曲子中，key 通常会频繁地改变。key 的变更在塑造曲子的情感框架上起了很大的作用。接下来视频用两首曲子作为例子进行了说明。
 <!--more-->
+
 第一首曲子是东方地灵殿里的《ハルトマンの妖怪少女》。
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="380" height="86" src="//music.163.com/outchain/player?type=2&id=22636634&auto=0&height=66"></iframe>
