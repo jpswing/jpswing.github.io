@@ -4,7 +4,7 @@ title: 如何通过 Audient iD4 MKII 与 FL Studio 处理唱歌直播的声音
 excerpt_separator: <!--more-->
 ---
 
-这篇文章简单分享我直播唱歌时使用的设备，软件，以及声音经过了哪些处理。（我的直播间：https://live.bilibili.com/23711453）
+这篇文章简单分享我直播唱歌时使用的设备，软件，以及声音经过了哪些处理。（[我的直播间](https://live.bilibili.com/23711453)）
 
 我使用的工具包括：麦克风 Shure SM58，声卡（音频界面/接口）Audient iD4 MKII，DAW FL Studio 20，推流软件 OBS。下面对此一一介绍，重点介绍 Audient iD4 MKII，FL Studio 20 的部分。
 
@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 
 需要注意的是，声卡的麦克风增益不能开太大，以防在大声的时候破 0dB，一般我是设置正常讲话时的音量在 -20dB 左右，可以在 iD4 MKII 的 Loop-back Mixer 里看见输入的音量是多少，前面说的 -20dB 指的是在 Loop-back Mixer 里看见的值，这里的值比实际输入到其它应用程序时的值要大，大概大 10dB，原因未知，但如果在 Mixer 里爆了 0dB 那就会失真。
 
-我们需要把除了「LOOP-BACK 1|2」以外的所有输入音量都关闭，我们会在 DAW 中把经过处理后的人声送进「LOOP-BACK 1|2」。
+我们需要把除了「LOOP-BACK 1/2」以外的所有输入音量都关闭，我们会在 DAW 中把经过处理后的人声送进「LOOP-BACK 1/2」。
 
 ![streaming-setup-loop-back-mixer]({{ 'images/streaming-setup-loop-back-mixer.png' | relative_url }})
 
