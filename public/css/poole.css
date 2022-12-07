@@ -48,9 +48,9 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Han Sans CN", "Helvetica Neue", Helvetica;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.7;
 }
 @media (min-width: 38em) {
   html {
@@ -286,7 +286,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 55rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
