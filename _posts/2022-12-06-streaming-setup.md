@@ -54,7 +54,7 @@ excerpt_separator: <!--more-->
    * Band 2 在 160Hz 左右，-7dB，因为我是怼着嘴唱，所以这部分的低频很重，声音听起来很浑浊，降低一些会让声音干净很多
    * Band 5 在 1100Hz 左右，2.5dB，据悉这附近的频率增加一点的话可以让人声更突出
    * Band 6 在 3200Hz 左右，-2.5dB，主要是感觉声音经过 De-esser 后还是有一些嘶嘶声，我就在这再降低了一点对应的频率，不过我也不知道这么做是否更好，也不知道这是否是正确的频率
-   * Band 7 类型是 high shelf，在 5000Hz 左右，5dB，据悉增加这后面的频率可以增加人声的「空气感」
+   * Band 7 类型是 high shelf，在 5500Hz 左右，5dB，据悉增加这后面的频率可以增加人声的「空气感」
    
    这些参数除了 1 和 2，其它纯纯仅供参考，我是乱来的（
    
@@ -62,11 +62,11 @@ excerpt_separator: <!--more-->
 
    ![streaming-setup-compressor]({{ 'images/streaming-setup-compressor.png' | relative_url }})
 
-   * Gain: 10dB
+   * Gain: 9dB
    * Threshold: -30dB
    * Ratio: 3:1
-   * Attack: 12ms
-   * Release: 200ms
+   * Attack: 15ms
+   * Release: 120ms
 
    我的 Threshold 设置思路是，和自己说话/温柔唱歌时候的声音差不多大，或者稍微大一点，就可以了。这里的参数设置肯定还不是最好的，我对 compressor 的调整还没有什么经验，仅供参考
 
